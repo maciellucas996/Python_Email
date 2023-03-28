@@ -1,4 +1,4 @@
-# Python_Email
+# Python
 Automatic email with Python
 
-Código para envio de email automatico via Python. Conexão com Outlook instalado na máquina.
+Pequenos projetos de Python, feito por iniciante.
